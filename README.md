@@ -1,4 +1,4 @@
-# gd-cloud-access
+# gesdisc-cloud
 This repository is a starter kit for demonstrating methods of cloud access with Earthdata Cloud + GES DISC datasets.
 
 
