@@ -1,0 +1,5 @@
+Cartopy==0.20.0
+matplotlib==3.5.1
+requests==2.27.1
+s3fs==2021.11.1
+xarray==0.21.1
